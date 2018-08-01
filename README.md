@@ -2,6 +2,8 @@
 
 Shield per Wemos D1 mini per collegare fino a 6 dispositivi Grove. || Simple shield to connect up to 6 Grove device to a Wemos D1 mini.
 
+![wemos + wemos grove shield + wemos dht22 shield](https://lh3.googleusercontent.com/IFALWAMvwdYL3MG3jbF1V1DvBob4NftJKPoJILyIoyPP8xGxCnYcGC69xQ9UJdmoClr1VdT5sgC-Gr_bQU4i84TACmh_Ix7yOGzaTGgnmD3Lihv_z_XJgALvjk4tSnUcHnuPB9_Jn5s=w1483-h834-no "foto.jpg")
+
 ## Più informazioni || More info
 
 Questo shield è predisposto per:
