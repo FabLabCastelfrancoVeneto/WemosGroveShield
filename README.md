@@ -21,7 +21,10 @@ This shield allow you to connect:
 
 Used pins: A0, D1 (together with D2 on the same connector, so you can use it for I2C), D3, D4, D6, D7.
 
-
-
 [1] https://www.seeedstudio.com/Grove---Universal-4-pin-connector-90%C2%B0%2810-PCs%29-p-790.html  
-[2] https://www.amazon.it/Regolabile-Buck-Converter-Step-Pezzi/dp/B01MQGMOKI/ref=sr_1_4?rps=1&ie=UTF8&qid=1531129949&sr=8-4&keywords=MP1584EN
+[2] https://www.amazon.it/Regolabile-Buck-Converter-Step-Pezzi/dp/B01MQGMOKI/ref=sr_1_4?rps=1&ie=UTF8&qid=1531129949&sr=8-4&keywords=MP1584EN  
+
+
+## Authors
+* **Mirco Piccin** -  [pictux](https://github.com/pictux)
+
