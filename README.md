@@ -11,7 +11,8 @@ Questo shield è predisposto per:
 - collegamento tramite connettori a vite di fonte esterna di tensione superiore a 5v, regolata da breakout board con MP1584EN [2]
 
 Vengono pubblicati i piedini: A0, D1 (combinato con D2 per eventuale utilizzo della porta come I2C), D3, D5, D6, D7.
-In questo modo vengono anche lasciati liberi i pin usati da shield ufficiali (es: il D4 usato dallo shield DHT22, o il D8 usato da relay shield, etc)
+In questo modo vengono anche lasciati liberi i pin usati da shield ufficiali (es: il D4 usato dallo shield DHT22, o il D8 usato da relay shield, etc).
+Abbiamo realizzato i primi prototipi con la nostra cirqoid (una cnc per pcb) e qualche test, abbiamo fatto fare un batch di pcb!
 
 ||
 
@@ -20,6 +21,10 @@ This shield allow you to connect:
 - a voltage higher than 5v using a screw terminal, connected to a MP1584EN step-down module [2]
 
 Used pins: A0, D1 (together with D2 on the same connector, so you can use it for I2C), D3, D4, D6, D7.
+We have done the first prototypes with our Cirqoid (a cnc for pcb)and after a few test, we ordered a pcb batch!
+
+
+![shield] (https://lh3.googleusercontent.com/pA93-L_Z7GGnHA7peI-KIwlTrpuK8Iz-zYh9PnxkOZcFFdITsAEc2haMIVeeOdMEtkZtV9Kl7PtrClKk66CQ81POzDqpn34_8R7zQqVpBnfIMyqWe6oJ_l7Kx4ejRHccQ86MLjmAU3Y=w897-h505-no "foto2.jpg")
 
 [1] https://www.seeedstudio.com/Grove---Universal-4-pin-connector-90%C2%B0%2810-PCs%29-p-790.html  
 [2] https://www.amazon.it/Regolabile-Buck-Converter-Step-Pezzi/dp/B01MQGMOKI/ref=sr_1_4?rps=1&ie=UTF8&qid=1531129949&sr=8-4&keywords=MP1584EN  
