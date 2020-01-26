@@ -1,3 +1,4 @@
+
 # WemosGroveShield
 
 Shield per Wemos D1 mini per collegare fino a 6 dispositivi Grove. || Simple shield to connect up to 6 Grove device to a Wemos D1 mini.
@@ -23,8 +24,7 @@ This shield allow you to connect:
 Used pins: A0, D1 (together with D2 on the same connector, so you can use it for I2C), D3, D4, D6, D7.
 We have done the first prototypes with our Cirqoid (a cnc for pcb)and after a few test, we ordered a pcb batch!
 
-
-![shield] (https://lh3.googleusercontent.com/pA93-L_Z7GGnHA7peI-KIwlTrpuK8Iz-zYh9PnxkOZcFFdITsAEc2haMIVeeOdMEtkZtV9Kl7PtrClKk66CQ81POzDqpn34_8R7zQqVpBnfIMyqWe6oJ_l7Kx4ejRHccQ86MLjmAU3Y=w897-h505-no "foto2.jpg")
+![shield](https://lh3.googleusercontent.com/pA93-L_Z7GGnHA7peI-KIwlTrpuK8Iz-zYh9PnxkOZcFFdITsAEc2haMIVeeOdMEtkZtV9Kl7PtrClKk66CQ81POzDqpn34_8R7zQqVpBnfIMyqWe6oJ_l7Kx4ejRHccQ86MLjmAU3Y=w897-h505-no)
 
 [1] https://www.seeedstudio.com/Grove---Universal-4-pin-connector-90%C2%B0%2810-PCs%29-p-790.html  
 [2] https://www.amazon.it/Regolabile-Buck-Converter-Step-Pezzi/dp/B01MQGMOKI/ref=sr_1_4?rps=1&ie=UTF8&qid=1531129949&sr=8-4&keywords=MP1584EN  
